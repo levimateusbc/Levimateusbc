@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Levi Cordeiro</h1>
+<h3 align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Lover</h3>
 
-<!--
-**levimateusbc/Levimateusbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's degree in Computational Mathematics  
+- 👨‍💻 Currently working with **landing page optimization** and **user experience improvements**
+- 🚀 Passionate about building responsive, fast and accessible web interfaces  
+- 🤝 Bridging the gap between **marketing**, **product** and **dev teams**
+- 📊 Background in data analysis (Power BI, SQL, Excel)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=levicordeiro&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levicordeiro&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+- 📧 Email: **levimateusbc2@gmail.com**  
+- 💼 [LinkedIn] www.linkedin.com/in/levi-mateus-bc
+- 🌐 [Portfolio] 
+
+---
+
+### ✍️ Quote I Live By
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — Harold Abelson
+
+---
+
+🧠 *Always learning. Always building. Always improving.*
