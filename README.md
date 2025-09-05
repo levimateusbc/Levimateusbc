@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Levi Cordeiro</h1>
+<h1 align="center">Hi, I'm Levi Cordeiro</h1>
 <h3 align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Lover</h3>
 
 ---
 
-### 💻 About Me
+###  About Me
 
-- 🎓 Bachelor's degree in Computational Mathematics  
-- 👨‍💻 Currently working with **landing page optimization** and **user experience improvements**
-- 🚀 Passionate about building responsive, fast and accessible web interfaces  
-- 🤝 Bridging the gap between **marketing**, **product** and **dev teams**
-- 📊 Background in data analysis (Power BI, SQL, Excel)
+-  Bachelor's degree in Computational Mathematics  
+-  Currently working with **landing page optimization** and **user experience improvements**
+-  Passionate about building responsive, fast and accessible web interfaces  
+-  Bridging the gap between **marketing**, **product** and **dev teams**
+-  Background in data analysis (Power BI, SQL, Excel)
 
 ---
 
@@ -30,19 +30,19 @@
 
 
 
-### 📫 How to reach me
+### How to reach me
 
-- 📧 Email: **levimateusbc2@gmail.com**  
-- 💼 [LinkedIn] www.linkedin.com/in/levi-mateus-bc
-- 🌐 [Portfolio] https://levimateusbc.github.io/Portf-lio/
+-  Email: **levimateusbc2@gmail.com**  
+-  [LinkedIn] www.linkedin.com/in/levi-mateus-bc
+-  [Portfolio] https://levimateusbc.github.io/Portf-lio/
 
 ---
 
-### ✍️ Quote I Live By
+### ✍ Quote I Live By
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > — Harold Abelson
 
 ---
 
-🧠 *Always learning. Always building. Always improving.*
+ *Always learning. Always building. Always improving.*
